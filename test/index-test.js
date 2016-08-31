@@ -1,3 +1,5 @@
+"use strict";
+
 /*global afterEach, beforeEach, describe, it */
 
 
